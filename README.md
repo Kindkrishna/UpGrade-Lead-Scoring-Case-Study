@@ -1,5 +1,6 @@
 # UpGrade-Lead-Scoring-Case-Study
 
+![Model][https://github.com/Kindkrishna/UpGrade-Lead-Scoring-Case-Study/blob/ca3804967b49bc01dbe838d81c84b9ed2685d60f/casestudy.jpeg]
 
 🚀 Project Spotlight: Lead Conversion Optimization with X Education 🚀
 
